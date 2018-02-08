@@ -1,39 +1,40 @@
+### erebus
 ! special
 *.foreground:   #ffffff
 *.background:   #000000
 *.cursorColor:  #ffffff
 
 ! black
-*.color0:       #303030
-*.color8:       #5e5e5e
+*.color0:       #757575
+*.color8:       #b8b8b8
 
 ! red
-*.color1:       #a43261
-*.color9:       #ff9fc9
+*.color1:       #ff5f5f
+*.color9:       #d78787
 
 ! green
-*.color2:       #388fbd
-*.color10:      #3bd6ff
+*.color2:       #de8a36
+*.color10:      #ff9f6f
 
 ! yellow
-*.color3:       #0ea3c1
-*.color11:      #00ddf4
+*.color3:       #d78787
+*.color11:      #ff5f5f
 
 ! blue
-*.color4:       #6751a6
-*.color12:      #d5b8ff
+*.color4:       #af5fd7
+*.color12:      #dea3e5
 
 ! magenta
-*.color5:       #913e88
-*.color13:      #ffa7f6
+*.color5:       #ff87d7
+*.color13:      #d7afaf
 
 ! cyan
-*.color6:       #46a1ec
-*.color14:      #93c9ff
+*.color6:       #dea3e5
+*.color14:      #af5fd7
 
 ! white
-*.color7:       #c6c6c6
-*.color15:      #ffffff
+*.color7:       #b8b8b8
+*.color15:      #757575
 
 URxvt*scrollBar: false
 URxvt*font: xft:dejavu sans mono:size=10

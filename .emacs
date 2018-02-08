@@ -50,7 +50,9 @@
 (color-theme-initialize)
 (color-theme-goldenrod)
 ;;(color-theme-charcoal-black)
-;;(color-theme-montz)
 ;;(color-theme-whateveryouwant)
+;;(color-theme-montz)
 ;;(color-theme-midnight)
+;;(color-theme-arjen)
+;;(color-theme-retro-orange)
 
